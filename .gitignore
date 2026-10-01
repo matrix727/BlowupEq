@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+*.exe
+*.o
+*.obj
+*.out
+
+# OS / editor metadata
+.DS_Store
+__MACOSX/
+.vscode/
+
+# Scratch / ad-hoc debug scripts
+test_f0*.wls
